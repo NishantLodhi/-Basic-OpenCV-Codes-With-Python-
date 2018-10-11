@@ -1,1 +1,1 @@
-# Open-Cv-codes
+#IN this the path of the images and the name of the images are according to my system. If you want to execute all this code please change the images and videos names for better result. And always work with opencv-python-contrib(version)
